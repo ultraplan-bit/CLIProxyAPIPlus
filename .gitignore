@@ -1,11 +1,11 @@
 # Binaries
 cli-proxy-api
 *.exe
-
+.mcp.json
 # Configuration
 config.yaml
 .env
-
+.claude
 # Generated content
 bin/*
 logs/*
